@@ -9,8 +9,6 @@ R >= 4.3.3
 
 Seurat==5.2.1
 Harmony==1.2.3
-SingleR==2.4.1
-celldex==1.12.0
 Monocle3==1.3.7
 ggplot2==3.4.4
 
