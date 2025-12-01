@@ -29,5 +29,5 @@ BiocManager
 scRNAseq-periodontitis-analysis/
 ├── 01_preprocessing.R
 ├── 02_Integration.R
-├── 03_Subset_Reclustering.R
-└── 04_Trajectory_Monocle3.R
+├── 03_Iterative_Clustering.R
+└── 04_Trajectory.R
