@@ -1,5 +1,5 @@
 # ============================================================
-# 01_preprocessing_template.R
+# 01_Preprocessing.R
 # Template script for scRNA-seq preprocessing (non-executable)
 # ============================================================
 
