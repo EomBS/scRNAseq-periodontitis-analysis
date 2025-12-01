@@ -28,7 +28,6 @@ BiocManager
 ```plaintext
 scRNAseq-periodontitis-analysis/
 ├── 01_preprocessing.R
-├── 02_SCTransform_PCA.R
-├── 03_Harmony_Clustering.R
-├── 04_Subset_Reclustering.R
-└── 05_Trajectory_Monocle3.R
+├── 02_Integration.R
+├── 03_Subset_Reclustering.R
+└── 04_Trajectory_Monocle3.R
