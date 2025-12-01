@@ -27,8 +27,8 @@ BiocManager
 ## Repository Structure
 ```plaintext
 scRNAseq-periodontitis-analysis/
-├── 01_preprocessing_template.R
-├── 02_SCTransform_PCA_template.R
-├── 03_Harmony_Clustering_template.R
-├── 04_Subset_Reclustering_template.R
-└── 05_Trajectory_Monocle3_template.R
+├── 01_preprocessing.R
+├── 02_SCTransform_PCA.R
+├── 03_Harmony_Clustering.R
+├── 04_Subset_Reclustering.R
+└── 05_Trajectory_Monocle3.R
