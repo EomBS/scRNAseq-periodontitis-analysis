@@ -1,5 +1,5 @@
 # scRNAseq-periodontitis-analysis
-CSN Lab, SNU
+SNU
 
 Minimal template scripts outlining the scRNA-seq analysis workflow used in the associated periodontitis study.  
 These scripts are non-executable examples and do not contain raw data, full code, or patient-related information.
